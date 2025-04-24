@@ -30,7 +30,7 @@ This project provides a **Stripe-powered subscription management system** using 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone git@github.com:AhmadMinhas/stripe_arb.git
+git clone https://github.com/irfanabdullah10/stripe_arb.git
 cd stripe_arb
 pyhton3 -m venv env
 pip install -r requirements.txt
